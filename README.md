@@ -13,7 +13,7 @@ Estudante de Engenharia da Computação na Fametro (Manaus-AM), com conclusão p
 
 | Projeto | O que é | Links |
 |---|---|---|
-| **Painel financeiro escolar** | Planilha que gera os boletos do ano, calcula multa e juros, lista inadimplentes e fecha o caixa mês a mês, com um dashboard web. Dados fictícios | [Código](https://github.com/Kayla-M1/painel-financeiro-escolar) · [Painel](https://kayla-m1.github.io/painel-financeiro-escolar/) |
+| **Painel financeiro escolar** | Planilha em uso numa escola que antes não tinha controle financeiro. Gera os boletos do ano, calcula multa e juros, lista inadimplentes e mostra o caixa mês a mês, com um dashboard web. Dados do portfólio são fictícios | [Código](https://github.com/Kayla-M1/painel-financeiro-escolar) · [Painel](https://kayla-m1.github.io/painel-financeiro-escolar/) |
 | **Kabanas Pedacim do Céu** | Site de reservas para cabanas com planejador de estadia, reserva via WhatsApp e formulário ligado a uma automação n8n com IA | [Código](https://github.com/Kayla-M1/kabanas-pedacim-do-ceu) · [Site](https://kayla-m1.github.io/kabanas-pedacim-do-ceu/) |
 | **Ponto biométrico (conceito)** | Ideia de sistema de ponto com leitor de digital, Raspberry Pi e Python. Painel com presença, atrasos, horas extras e espelho de ponto. Dados fictícios | [Código](https://github.com/Kayla-M1/ponto-biometrico-painel) · [Painel](https://kayla-m1.github.io/ponto-biometrico-painel/) |
 
